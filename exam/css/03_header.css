@@ -1,0 +1,6 @@
+/* TODO: 머리말디자인 */
+#page {width: 99vw; margin: 0 auto;}
+header {width: 100%; margin: 0 auto;}
+.mainText {float: left; margin: 1rem 5rem;}
+.subMenu {float: right; margin: 1rem 5rem;}
+.subMenu li {display: inline-block;}

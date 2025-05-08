@@ -1,0 +1,6 @@
+/* TODO: 대메뉴디자인 */
+#page {width: 99vw; margin: 0 auto;}
+nav {width: 100%; margin: 0 auto;}
+.menu {display: flex; justify-content: center;}
+.menu li{display: inline-block; margin: 1rem;}
+.clear {clear: both;}
